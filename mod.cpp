@@ -1,0 +1,11 @@
+name = "Test1";
+picture = "Jordan.paa";
+logo = "Jordan.paa";
+logoOver = "Jordan.paa";
+overviewPicture = "Jordan.paa";
+description = "Ebat Koney Ebat";
+overview = "Ebat Koney Ebat";
+hidePicture = "false";
+hideName = "false";
+actionName = "Website";
+action = "SalamBrat";
